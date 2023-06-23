@@ -71,24 +71,6 @@ section.table {
     margin-top: 88px;
 }
 
-footer {
-    display: flex;
-    justify-content: center;
-    margin-top: 62px;
-    background-color: #580404;
-    height: 64px;
-    align-items: center;
-    color: #fff;
-}
-
-.rodape {
-    display: flex;
-}
-
-.rodape span {
-    margin-right: 10px;
-}
-
 .table {
     display: flex;
     align-items: center;
@@ -117,4 +99,22 @@ td {
     border-bottom: 1px solid #999;
     text-align: center;
     padding: 2px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 62px;
+    background-color: #580404;
+    height: 64px;
+    align-items: center;
+    color: #fff;
+}
+
+.rodape {
+    display: flex;
+}
+
+.rodape span {
+    margin-right: 10px;
 }
